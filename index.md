@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Fauzi fadlurahman
+Mahasiswa UIN Suska Riau,
+Fakultas Sains dan Teknologi
+Jurusan Sistem Informasi Angkatan 2016
 
 - Bulleted
 - List
