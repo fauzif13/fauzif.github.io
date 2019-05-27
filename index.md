@@ -11,10 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Fauzi fadlurahman
-Mahasiswa UIN Suska Riau,
-Fakultas Sains dan Teknologi
-Jurusan Sistem Informasi Angkatan 2016
+<h1>Fauzi fadlurahman</h1>
+<h2>Mahasiswa UIN Suska Riau,</h2>
+<h3>Fakultas Sains dan Teknologi</h3>
+<h4>Jurusan Sistem Informasi Angkatan 2016</h4>
 
 - Bulleted
 - List
